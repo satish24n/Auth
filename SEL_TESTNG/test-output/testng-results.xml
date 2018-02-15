@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34" started-at="2018-02-06T12:11:31Z" finished-at="2018-02-06T12:11:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34" started-at="2018-02-06T12:11:31Z" finished-at="2018-02-06T12:11:31Z">
+      <class name="com.tng.sang">
+        <test-method status="PASS" signature="cMethod()[pri:0, instance:com.tng.sang@74650e52]" name="cMethod" duration-ms="1" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tng.sang@74650e52]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="dMethod()[pri:0, instance:com.tng.sang@74650e52]" name="dMethod" duration-ms="0" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tng.sang@74650e52]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+      </class> <!-- com.tng.sang -->
+      <class name="com.tng.Tang">
+        <test-method status="PASS" signature="b4test()[pri:0, instance:com.tng.Tang@1786dec2]" name="b4test" is-config="true" duration-ms="8" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b4test -->
+        <test-method status="PASS" signature="b4class()[pri:0, instance:com.tng.Tang@1786dec2]" name="b4class" is-config="true" duration-ms="0" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b4class -->
+        <test-method status="PASS" signature="Aone()[pri:0, instance:com.tng.Tang@1786dec2]" name="Aone" duration-ms="4" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aone -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tng.Tang@1786dec2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Bone()[pri:0, instance:com.tng.Tang@1786dec2]" name="Bone" duration-ms="1" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bone -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tng.Tang@1786dec2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tng.Tang@1786dec2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Cone()[pri:0, instance:com.tng.Tang@1786dec2]" name="Cone" duration-ms="1" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cone -->
+        <test-method status="PASS" signature="afterClassm()[pri:0, instance:com.tng.Tang@1786dec2]" name="afterClassm" is-config="true" duration-ms="0" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassm -->
+        <test-method status="PASS" signature="aftrtest()[pri:0, instance:com.tng.Tang@1786dec2]" name="aftrtest" is-config="true" duration-ms="0" started-at="2018-02-06T17:41:31Z" finished-at="2018-02-06T17:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrtest -->
+      </class> <!-- com.tng.Tang -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
